@@ -1,0 +1,72 @@
+body{
+    font-family:Arial;
+    background-color: #c4bebe5d;
+    display:flex;
+    justify-content: center;
+   
+}
+
+.principal{
+    border:2px solid #cecece;
+    margin:40px;
+    border-radius: 10px ;
+    background-color: #ffffff;
+    padding: 20px;
+   width: 70%;
+ 
+   
+}
+
+h1{
+    text-align: center;
+    margin: 0px;
+
+}
+
+hr{
+    height: 1px;
+    background-color: black;
+   
+
+    
+}
+
+.sm{
+    margin:20px;
+}
+
+.info_personal{
+    border:2px solid #c4bebe5d;
+    margin:20px;
+    padding: 20px;
+    border-radius:5px;
+    background-color:#ecf6fcf5 ;
+}
+
+.hobbies{
+    border:1px solid #f8920cf5;
+    margin:20px;
+    padding: 20px;
+    border-radius:5px;
+    background-color:#fcebd6b2 ;
+}
+
+.contact{
+    border:1px solid #4dbd57f5;
+    margin:20px;
+    padding: 20px;
+    border-radius:5px;
+    background-color:#dbfae87e ;   
+}
+
+h2{
+    color:rgb(60, 144, 223)
+}
+
+.link{
+    color:#23aa2ff5;
+}
+
+.gmail{
+    color:#23aa2ff5;
+}
